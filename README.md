@@ -20,4 +20,4 @@ Currently there is nothing interesting to see, most of repositories where I acti
 
 ## Contacts
 
-Soon (currently I don't wish to be contacted by any means, I am quite introverted even online)
+Soon
