@@ -20,4 +20,4 @@ Currently there is nothing interesting to see, most of repositories where I acti
 
 ## Contacts
 
-Soon
+Soon™
