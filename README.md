@@ -1,6 +1,6 @@
 Just a random 17 y.o college student who wants to someday make this world better.
 
-Currently there is nothing interesting to see here, most repositories where I actively contribute are private.
+Currently there is nothing interesting to see here, most of my own repositories/repositories where I am assigned as collaborator are private.
 
 ## What I currently use/had experience using in the past
 
