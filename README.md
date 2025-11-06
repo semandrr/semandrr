@@ -2,7 +2,7 @@ Just a random 17 y.o college student who wants to someday make this world better
 
 Currently there is nothing interesting to see, most of repositories where I actively contribute are private.
 
-## What I use
+## What I currently use/had experience in the past
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
