@@ -1,6 +1,6 @@
-Just a random 17 y.o college student who wants to someday make this world better.
+Just a 17 y.o IT geek, college student (Information systems specialist), and most importantly, a guy who wants to someday make this world better. My hobbies include coding, tinkering with technology and reading.
 
-Currently there is nothing interesting to see here, most of my own repositories/repositories where I am assigned as collaborator are private.
+Currently there is nothing interesting to see in my profile, most of my own repositories/repositories where I am assigned as collaborator are private due to them being personal projects.
 
 ## What I currently use/had experience using in the past
 
