@@ -18,8 +18,7 @@ Currently there is nothing interesting to see in my profile, most of my own repo
 ### Editors
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-
-the-badge&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ### Other
 
