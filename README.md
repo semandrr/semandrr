@@ -9,7 +9,7 @@ Currently there is nothing interesting to see in my profile, most of my own repo
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows-10&logoColor=white)
+![](https://img.shields.io/badge/Windows_10_LTSC-0078D6?style=for-the-badge&logo=windows-10&logoColor=white)
 
 ### Languages
 
